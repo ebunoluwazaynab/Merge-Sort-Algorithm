@@ -40,4 +40,4 @@ Contributions are welcome! If you have any suggestions, improvements or issues w
 
 ## License
 
-This implementation is licensed under the MIT License. See the `LICENSE` file for details.
+This implementation is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
