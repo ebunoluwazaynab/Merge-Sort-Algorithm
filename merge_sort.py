@@ -25,23 +25,3 @@ def merge_sort(array):
     sorted_array += right_half[j:]
     
     return sorted_array
-
-
-
-# Test the algorithm on a random list of 1000 integers betwen 1 and 10000
-import random
-import time
-
-# Generate a list of 1000 random integers between 1 and 10000
-my_list = [random.randint(1, 10000) for i in range(1000)]
-
-# Measure the time it takes to sort the list using merge sort
-start_time = time.time()
-sorted_list = merge_sort(my_list)
-end_time = time.time()
-
-# Print the sorted list and the time it took to sort it
-print(sorted_list)
-print()
-print()
-print("Time taken:", end_time - start_time, "seconds")
