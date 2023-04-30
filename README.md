@@ -38,6 +38,8 @@ print(sorted_array) # Output: [1, 1, 2, 3, 3, 4, 5, 5, 5, 6, 9]
 
 Contributions are welcome! If you have any suggestions, improvements or issues with this implementation, feel free to submit a pull request or open an issue.
 
+My apologies for the mistake. Here's an updated license section for the README file with the Apache-2.0 license:
+
 ## License
 
-This implementation is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
+This implementation is licensed under the Apache License, Version 2.0. See the `LICENSE` file for details.
